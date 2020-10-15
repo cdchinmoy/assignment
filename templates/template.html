@@ -3,7 +3,6 @@
   <head>
     <title>Flask Assignment</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" media="screen">-->
     <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
     <style type="text/css">
       .container {
@@ -20,7 +19,6 @@
   <body>
 
     <div class="container" style="margin-bottom: 20px;">
-
       {% with messages = get_flashed_messages(with_categories=true) %}
         {% if messages %}
           {% for category, message in messages %}
@@ -31,17 +29,7 @@
         {% endif %}
       {% endwith %}
 
-      <!--<div class="dropdown" style="margin-bottom: 10px;">
-        <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Document
-        <span class="caret"></span></button>
-        <ul class="dropdown-menu">
-        {% for file in files %}  
-          <li><a href="#">{{file}}</a></li>
-        {% endfor %}  
-        </ul>
-      </div>-->
       <form action="/updatejson" method="POST"> 
-
       <div class="form-group">
         <label for="sel1">Select file:</label>
         <select class="form-control" id="sel1" name="filename" onchange="check(this)">
@@ -88,21 +76,9 @@
         </div>
       </form>
     </div>
-    
-
     <script src="{{ url_for('static', filename='js/jquery-1.10.2.min.js') }}"></script>
     <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
-
     <script>
-      /*$('#review_submit').click(function(){
-        $(".edited_value").each(function() {
-            if($(this).val() != "")
-            {
-              alert($(this).val());
-            }
-        });
-      });*/
-
       function check($this){
         filename = $this.value
         var file = { "filename":filename}
