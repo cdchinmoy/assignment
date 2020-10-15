@@ -1,0 +1,386 @@
+{
+	"pdf-meta" : {
+		"name" : "NZX_FPH_2020-03",
+		"author" : "",
+		"modified_date" : "",
+		"creation_date" : "",
+		"pages" : "[35, 36, 37]"
+	},
+	"data" : {
+		"Total Debt" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Inventory" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [
+				{
+					"value" : "Trade receivables at 31 March 2020 reflected the increased sales in response to COVID-19, and currency translation benefits. Our debtors days were within the normal range being 45 days (2019: 46 days). Higher inventories reflect a level of inventory build in raw materials in respons to the heightened demand. Trade and other payables increase reflected higher production lev: and purchases of raw materials.",
+					"coordinate" : {
+						"x1" : 504,
+						"y1" : 2628,
+						"x2" : 2686,
+						"y2" : 2964
+					},
+					"paragraph" : 1
+				},
+				{
+					"value" : "Hit Ae eye SURI) Proulicts tO Treat Pavlents If response to COVID-19, along with lockdown restrictions in place, the decision was made ta nactnane certain 31 March 2020 global inventory counts. As a result, PwC were unable 1 all planned physical inventory verification procedures and has issued a qualified ion reflecting this limitation of scope. The Company has a solid history in inventory ant, as well as strong controls in place for global inventory balances including regular  ting. Subsequent to year end, inventory counts have resumed and no unexpected te hava arican Fiirthar dataile ara cat out in Note 3.",
+					"coordinate" : {
+						"x1" : 2760,
+						"y1" : 1076,
+						"x2" : 4970,
+						"y2" : 1604
+					},
+					"paragraph" : 2
+				}
+			]
+		},
+		"Dividend" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [
+				{
+					"value" : "We held cash balances and short-term investments, mainly in NZD, of $144.8 million at the end of the year. This balance, and operating cash generated in 2021, will fund the payment of the final dividend and ongoing capital expenditure including final payments for our new building in Auckland and manufacturing capacity expansion.",
+					"coordinate" : {
+						"x1" : 2760,
+						"y1" : 3292,
+						"x2" : 4971,
+						"y2" : 3572
+					},
+					"paragraph" : 1
+				},
+				{
+					"value" : "Viviuciius pau ur yl46.4 million were 28% higher than the prior year, reflecting the suspension of the dividend reinvestment plan at the final 2019 dividend payment.",
+					"coordinate" : {
+						"x1" : 505,
+						"y1" : 1084,
+						"x2" : 2705,
+						"y2" : 1242
+					},
+					"paragraph" : 2
+				}
+			]
+		},
+		"Interest income" : {
+			"36" : [ ],
+			"35" : [
+				{
+					"value" : "jyinning of the financial year, the Group adopted NZ IFRS 16 Leases. On adoption of  5, rental and lease expenses are effectively reclassified into a depreciation component erest component to reflect the implied financing in the lease. The overall profit after  t of this is an increase of NZ$0.2 million for the year. The adoption has resulted in  ‘e in our operating profit of NZ$2.1 million offset by an increase in interest costs of llion for the vear in constant currency.",
+					"coordinate" : {
+						"x1" : 2987,
+						"y1" : 1340,
+						"x2" : 4975,
+						"y2" : 1748
+					},
+					"paragraph" : 1
+				}
+			],
+			"37" : [ ]
+		},
+		"Cost of Goods sold" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Underlying Profit" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Goodwill" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Revenue" : {
+			"36" : [
+				{
+					"value" : "Profit after tax benefited by $17.4 million compared to the prior year due to movements in foreign currency. This $17.4 million benefit is net of a pre tax loss of $7.7 million from the hedging programme in the current year (2019: $1.9 million loss). The effect of balance sheet translations for the year resulted in an increase in operating revenue of $14.7 million (2019: $2.4 million) and an increase in profit after tax of $3.1 million (2019: $0.7 million). See further details on page 36.",
+					"coordinate" : {
+						"x1" : 312,
+						"y1" : 2324,
+						"x2" : 2395,
+						"y2" : 2724
+					},
+					"paragraph" : 1
+				},
+				{
+					"value" : "Hic Uruup 1s GAPUSSU LU HHUVEIiciivs ni 1ureign exchange rates, with approximately 99% of operating revenue generated in currencies other than NZD as shown below.",
+					"coordinate" : {
+						"x1" : 312,
+						"y1" : 716,
+						"x2" : 2361,
+						"y2" : 876
+					},
+					"paragraph" : 2
+				}
+			],
+			"35" : [
+				{
+					"value" : "Revenue  Operating revenue was NZ$1,263.7 million, which is 18% above last year or 14% in constant currency. Hospital revenue grew 21% in constant currency largely driven by growth in our new applications consumables, demand for products used to treat COVID-19 patients, and strong hardwiara calac Homacare revenue grew 4% in constant currency.",
+					"coordinate" : {
+						"x1" : 504,
+						"y1" : 2665,
+						"x2" : 2677,
+						"y2" : 3012
+					},
+					"paragraph" : 1
+				},
+				{
+					"value" : "d of $118.5 million grew 18%. The collection of R&D related costs was improved o implement the new R&D tax credit. This resulted in approximately $8 million of ‘al costs being classified as R&D rather than SG&A. Excluding this reclassification  ‘th was 10%. Over the long term we plan for R&D spend to grow in line with constant ‘evenue growth.",
+					"coordinate" : {
+						"x1" : 2986,
+						"y1" : 1003,
+						"x2" : 4937,
+						"y2" : 1339
+					},
+					"paragraph" : 2
+				}
+			],
+			"37" : [ ]
+		},
+		"Basic Earnings Per Share" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Earnings Times Cover Debt" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Gross Profit" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Non-Current Assets" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"EBITDA" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Interest Expense" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"EBIT" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Total Assets" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"EBITDAF" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Selling, General, and Administrative Expenses" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Operating Expenses" : {
+			"36" : [
+				{
+					"value" : "Approximately 55% of COGS and 57% of operating expenses are in currencies other than NZ  The NZD weakened against all major currencies compared to the previous year. The USD anc EUR conversion rates were lower compared to the prior year. The average conversion exchar rate movements were largely independent of COVID-19 volatility experienced in the later mc of the financial year.",
+					"coordinate" : {
+						"x1" : 312,
+						"y1" : 1948,
+						"x2" : 2449,
+						"y2" : 2324
+					},
+					"paragraph" : 1
+				}
+			],
+			"35" : [
+				{
+					"value" : "CaApenece nivicused 7% (3% in constant currency) to $456.5 million. Excluding atent litigation expenses in the prior year of $23.4 million, operating expense as 13% (9% in constant currency), reflecting ongoing expenditure to support as growth.",
+					"coordinate" : {
+						"x1" : 2988,
+						"y1" : 716,
+						"x2" : 4823,
+						"y2" : 996
+					},
+					"paragraph" : 1
+				}
+			],
+			"37" : [ ]
+		},
+		"Shareholders Equity" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Cash or cash equivalent" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Operating Cash Flow" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Current Assets" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Net Loss" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Financing Cash Flow" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Income taxes" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Net Profit" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Property Income" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [
+				{
+					"value" : "The impact of the new leasing standard resulted in the recognition of right-of-use (or leased) assets, included in property, plant and equipment, and lease liabilities. The detailed impact is explained in Note 23 of the financial statements.  The increase in property, plant and equipment included the recognition of leased assets of $24.7 million and capital expenditure of $145.3 million, of which $81.8 million related to building additions, primarily our new building in Auckland. These increases were offset by $48.3 million of depreciation, including depreciation of leased assets.",
+					"coordinate" : {
+						"x1" : 504,
+						"y1" : 2972,
+						"x2" : 2731,
+						"y2" : 3466
+					},
+					"paragraph" : 2
+				}
+			]
+		},
+		"Sales" : {
+			"36" : [
+				{
+					"value" : "Cus mune Ui Uperuuune ior the year increased 27% to $321.4 million. Including lease repayments, cash flows from operations increased by 25%. Working capital was impacted by a significant increase in receivables from higher sales related to the COVID-19 pandemic.",
+					"coordinate" : {
+						"x1" : 2570,
+						"y1" : 3452,
+						"x2" : 4680,
+						"y2" : 3668
+					},
+					"paragraph" : 1
+				}
+			],
+			"35" : [ ],
+			"37" : [
+				{
+					"value" : "Trade receivables at 31 March 2020 reflected the increased sales in response to COVID-19, and currency translation benefits. Our debtors days were within the normal range being 45 days (2019: 46 days). Higher inventories reflect a level of inventory build in raw materials in respons to the heightened demand. Trade and other payables increase reflected higher production lev: and purchases of raw materials.",
+					"coordinate" : {
+						"x1" : 504,
+						"y1" : 2628,
+						"x2" : 2686,
+						"y2" : 2964
+					},
+					"paragraph" : 1
+				}
+			]
+		},
+		"Replacement Cost NPAT" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Capital Expenditure" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [
+				{
+					"value" : "We held cash balances and short-term investments, mainly in NZD, of $144.8 million at the end of the year. This balance, and operating cash generated in 2021, will fund the payment of the final dividend and ongoing capital expenditure including final payments for our new building in Auckland and manufacturing capacity expansion.",
+					"coordinate" : {
+						"x1" : 2760,
+						"y1" : 3292,
+						"x2" : 4971,
+						"y2" : 3572
+					},
+					"paragraph" : 1
+				},
+				{
+					"value" : "The impact of the new leasing standard resulted in the recognition of right-of-use (or leased) assets, included in property, plant and equipment, and lease liabilities. The detailed impact is explained in Note 23 of the financial statements.  The increase in property, plant and equipment included the recognition of leased assets of $24.7 million and capital expenditure of $145.3 million, of which $81.8 million related to building additions, primarily our new building in Auckland. These increases were offset by $48.3 million of depreciation, including depreciation of leased assets.",
+					"coordinate" : {
+						"x1" : 504,
+						"y1" : 2972,
+						"x2" : 2731,
+						"y2" : 3466
+					},
+					"paragraph" : 2
+				},
+				{
+					"value" : "Capital expenditure  Property, plant and equipment purchases for the year were $145.3 million, an increase from $115.4 million in the prior year. This expenditure primarily related to building projects in New Zealand, totalling $81.8 million with the remaining spend being production tooling and anitinment casts and fitting out the new buildings in Mexico and New Zealand.",
+					"coordinate" : {
+						"x1" : 504,
+						"y1" : 649,
+						"x2" : 2603,
+						"y2" : 996
+					},
+					"paragraph" : 3
+				}
+			]
+		},
+		"Gearing" : {
+			"36" : [ ],
+			"35" : [
+				{
+					"value" : "VU mining Capenses increased reflecting lease interest costs, lower interest 1 short-term deposits and foreign exchange losses on the translation of foreign nterest bearing liabilities, including lease liabilities.",
+					"coordinate" : {
+						"x1" : 2986,
+						"y1" : 1836,
+						"x2" : 4827,
+						"y2" : 2052
+					},
+					"paragraph" : 1
+				}
+			],
+			"37" : [
+				{
+					"value" : "Gearing’  At 31 March 2020 the group had net cash of $42.2 million and gearing of -4.3%. Gearing was within the target range of -5% to +5%.  1 Net interest-bearing debt (debt less cash and cash equivalents and short-term investments) to net interest-bearing  debt and equity (less hedging reserves). Net interest-bearing debt excludes lease liabilities recognised on the adoption of IFRS 16 - Leases.",
+					"coordinate" : {
+						"x1" : 2760,
+						"y1" : 3595,
+						"x2" : 4938,
+						"y2" : 4012
+					},
+					"paragraph" : 1
+				}
+			]
+		},
+		"Property, Plant, Machinery & Equipments" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		},
+		"Special or Extraordinary items" : {
+			"36" : [ ],
+			"35" : [ ],
+			"37" : [ ]
+		}
+	}
+}
+
+

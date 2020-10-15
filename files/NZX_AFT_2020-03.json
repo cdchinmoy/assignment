@@ -1,0 +1,374 @@
+{
+	"pdf-meta" : {
+		"name" : "NZX_AFT_2020-03",
+		"author" : "",
+		"modified_date" : "",
+		"creation_date" : "",
+		"pages" : "[5, 6]"
+	},
+	"data" : {
+		"Gross Profit" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"EBITDAF" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Goodwill" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Operating Cash Flow" : {
+			"6" : [
+				{
+					"value" : "In the 2020 financial year AFT’s has used most of its $14.9 million operating cash flow to fund research and development and financing costs. In the current year, in addition to continuing to invest in the business, the company will also be using cashflows to reduce debt.",
+					"coordinate" : {
+						"x1" : 4489,
+						"y1" : 3860,
+						"x2" : 6184,
+						"y2" : 4364
+					},
+					"paragraph" : 1
+				}
+			],
+			"5" : [ ]
+		},
+		"Replacement Cost NPAT" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Net Loss" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Net Profit" : {
+			"6" : [ ],
+			"5" : [
+				{
+					"value" : "Net profit after tax rose to $12.7 million from a loss of $2.4 million in the same period a year ago, demonstrating the operating leverage of our business.",
+					"coordinate" : {
+						"x1" : 352,
+						"y1" : 2892,
+						"x2" : 1969,
+						"y2" : 3236
+					},
+					"paragraph" : 1
+				}
+			]
+		},
+		"Capital Expenditure" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Interest income" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Revenue" : {
+			"6" : [ ],
+			"5" : [
+				{
+					"value" : "New Zealand revenue grew by 12% to $30.1 million from $26.8 million in the prior year, lifted by growth in the OTC channel and a small boost from the prescription channel, offset by the hospital channel.",
+					"coordinate" : {
+						"x1" : 4488,
+						"y1" : 3156,
+						"x2" : 6162,
+						"y2" : 3508
+					},
+					"paragraph" : 1
+				},
+				{
+					"value" : "This result, in April 2019, included our first sales milestone payment in the European Union of €500k on the Maxigesic® tablet form. We are confident of receiving further milestone payments,providing an additional source of revenue.",
+					"coordinate" : {
+						"x1" : 6201,
+						"y1" : 2916,
+						"x2" : 7914,
+						"y2" : 3348
+					},
+					"paragraph" : 5
+				},
+				{
+					"value" : "The international division is primarily focussed on the out-licensing, registration and enabling the sale (via licensees) of the Maxigesic range of pain relief products. It grew revenue by 55% to $9.1 million from $5.9 million in the prior year.",
+					"coordinate" : {
+						"x1" : 6201,
+						"y1" : 2463,
+						"x2" : 7898,
+						"y2" : 2892
+					},
+					"paragraph" : 6
+				},
+				{
+					"value" : "Southeast Asia revenue grew by 130% to $4.9 million from $2.1 million in the prior year lifted  by strong growth in the hospital channel. It also reflected modest growth in the prescription channel and steady revenues in the OTC channel as the initial Maxigesic launch sales to Hong Kong and Malaysian distributors occurred in the prior financial",
+					"coordinate" : {
+						"x1" : 6200,
+						"y1" : 1500,
+						"x2" : 7907,
+						"y2" : 2098
+					},
+					"paragraph" : 9
+				},
+				{
+					"value" : "EUTICALS ANI  Revenue for the year to 31 March 2020 increased 24% to $105.6 million from $85.1 million in the prior financial year, with revenue growing strongly in Australia Cup 22%), New Zealand Cup 12%)  and Southeast Asia (up 130%). The international business, which is focused primarily on the commercialisation of Maxigesic was up 55%.",
+					"coordinate" : {
+						"x1" : 216,
+						"y1" : 1108,
+						"x2" : 1985,
+						"y2" : 1708
+					},
+					"paragraph" : 5
+				}
+			]
+		},
+		"Selling, General, and Administrative Expenses" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Basic Earnings Per Share" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Non-Current Assets" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"EBITDA" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Sales" : {
+			"6" : [
+				{
+					"value" : "Maxigesic in its tablet dose form is now for sale in 28 countries, up from 20 in the same period last year. We will soon have coverage across Western Europe. We intended to deliver launch orders to a further 10-countries late in the 2020 financial year, but these shipments were delayed by the Indian Government’s paracetamol export ban. They will now be included in the 2021 financial year.",
+					"coordinate" : {
+						"x1" : 352,
+						"y1" : 4032,
+						"x2" : 1994,
+						"y2" : 4716
+					},
+					"paragraph" : 1
+				},
+				{
+					"value" : "We see significant potential for our products in  both global and local markets. The timing is always difficult to forecast with certainty, but we are seeing pleasing progress with strong local sales growth and accelerating momentum in international markets.",
+					"coordinate" : {
+						"x1" : 6200,
+						"y1" : 2068,
+						"x2" : 7905,
+						"y2" : 2502
+					},
+					"paragraph" : 2
+				},
+				{
+					"value" : "JTICALS AN  “Maxigesic in its tablet dose form Is now for sale in 28 countries, up from 20 in the same period last year.”",
+					"coordinate" : {
+						"x1" : 216,
+						"y1" : 1124,
+						"x2" : 1902,
+						"y2" : 1637
+					},
+					"paragraph" : 3
+				},
+				{
+					"value" : "AUSTRALIAN SALES INCREASED Up from *50.3m",
+					"coordinate" : {
+						"x1" : 2298,
+						"y1" : 1071,
+						"x2" : 3554,
+						"y2" : 1268
+					},
+					"paragraph" : 4
+				}
+			],
+			"5" : [
+				{
+					"value" : "Company sales in the first month of the new financial year are significantly ahead of the prior year, despite the sluggish retail environment. Sales in our Australian business have fared better than New Zealand as our team has still been able to visit",
+					"coordinate" : {
+						"x1" : 353,
+						"y1" : 4660,
+						"x2" : 2027,
+						"y2" : 5084
+					},
+					"paragraph" : 1
+				},
+				{
+					"value" : "We have seen strong increases in sales for a number of our products including analgesics (Maxigesic), cold & flu medications (MaxigesicPE & Maxiclear), vitamins (Vitamin C Liposachets) and hospital antibiotics.",
+					"coordinate" : {
+						"x1" : 352,
+						"y1" : 4204,
+						"x2" : 2046,
+						"y2" : 4628
+					},
+					"paragraph" : 2
+				},
+				{
+					"value" : "Against these gains, in excess of $1 million of export orders, including launch orders for 10 countries, were held up by the Indian Government restriction on the export of any products containing paracetamol. The export ban, which was imposed early in the crisis, has since been lifted. The sales have been deferred to the new financial year.",
+					"coordinate" : {
+						"x1" : 2074,
+						"y1" : 3652,
+						"x2" : 3749,
+						"y2" : 4247
+					},
+					"paragraph" : 3
+				},
+				{
+					"value" : "A key success in the second half of the year was the OTC Vitamin C Liposachets product. Early in the year we increased stocks in anticipation of the Covid-19 pandemic. As a direct result we sold twenty-one times the prior March’s sales.",
+					"coordinate" : {
+						"x1" : 4488,
+						"y1" : 3524,
+						"x2" : 6086,
+						"y2" : 3964
+					},
+					"paragraph" : 4
+				},
+				{
+					"value" : "This result, in April 2019, included our first sales milestone payment in the European Union of €500k on the Maxigesic® tablet form. We are confident of receiving further milestone payments,providing an additional source of revenue.",
+					"coordinate" : {
+						"x1" : 6201,
+						"y1" : 2916,
+						"x2" : 7914,
+						"y2" : 3348
+					},
+					"paragraph" : 5
+				},
+				{
+					"value" : "The international division is primarily focussed on the out-licensing, registration and enabling the sale (via licensees) of the Maxigesic range of pain relief products. It grew revenue by 55% to $9.1 million from $5.9 million in the prior year.",
+					"coordinate" : {
+						"x1" : 6201,
+						"y1" : 2463,
+						"x2" : 7898,
+						"y2" : 2892
+					},
+					"paragraph" : 6
+				},
+				{
+					"value" : "Hospital and prescription sales both benefited from the introduction of new products. We expect our significant in-licensing program to strengthen our key therapeutic areas and extend AFT’s long- standing record of growth across the Tasman.",
+					"coordinate" : {
+						"x1" : 4488,
+						"y1" : 2404,
+						"x2" : 6128,
+						"y2" : 2836
+					},
+					"paragraph" : 7
+				},
+				{
+					"value" : "Excluding the one-off gain, the underlying operating profit of $11.4 million represented an 86% improvement on the prior year’s result and reflects continued sales growth, the return to more normalised research and development spending and careful management of costs throughout the business.",
+					"coordinate" : {
+						"x1" : 352,
+						"y1" : 2268,
+						"x2" : 2007,
+						"y2" : 2860
+					},
+					"paragraph" : 8
+				},
+				{
+					"value" : "Southeast Asia revenue grew by 130% to $4.9 million from $2.1 million in the prior year lifted  by strong growth in the hospital channel. It also reflected modest growth in the prescription channel and steady revenues in the OTC channel as the initial Maxigesic launch sales to Hong Kong and Malaysian distributors occurred in the prior financial",
+					"coordinate" : {
+						"x1" : 6200,
+						"y1" : 1500,
+						"x2" : 7907,
+						"y2" : 2098
+					},
+					"paragraph" : 9
+				},
+				{
+					"value" : "Sales in Australia increased 22% to $61.4 million from $50.3 million in the prior year benefiting from growth in the three sales channels, over the counter, hospital, and prescription. Operating profits rose strongly from $5.3 million to $7.3 million.",
+					"coordinate" : {
+						"x1" : 4488,
+						"y1" : 1492,
+						"x2" : 6179,
+						"y2" : 1924
+					},
+					"paragraph" : 10
+				}
+			]
+		},
+		"Property, Plant, Machinery & Equipments" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Shareholders Equity" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Operating Expenses" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Earnings Times Cover Debt" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Dividend" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Special or Extraordinary items" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Total Debt" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Underlying Profit" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Income taxes" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Gearing" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Total Assets" : {
+			"6" : [
+				{
+					"value" : "As at 31 March 2020, AFT retained a cash balance of $6.1 million, in line with the $6.9 million cash  held a year ago. Total assets rose to $87.1 million from $63.6 million a year earlier and have increased primarily due to the acquisition of the Pascomer assets at their assessed fair value of $12.5 million, and the inclusion of “right-of-use assets” as required by NZ IFRS 16 being primarily our leased offices and the company capitalising research and development expenditure",
+					"coordinate" : {
+						"x1" : 4488,
+						"y1" : 2076,
+						"x2" : 6193,
+						"y2" : 2919
+					},
+					"paragraph" : 1
+				}
+			],
+			"5" : [ ]
+		},
+		"EBIT" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Cost of Goods sold" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Cash or cash equivalent" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Interest Expense" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Property Income" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Current Assets" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Financing Cash Flow" : {
+			"6" : [ ],
+			"5" : [ ]
+		},
+		"Inventory" : {
+			"6" : [ ],
+			"5" : [ ]
+		}
+	}
+}
+

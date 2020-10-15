@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Flask Assignment</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" media="screen">-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <style type="text/css">
+      .container {
+        max-width: 500px;
+        padding-top: 100px;
+      }
+      .alert-denger{
+        color: #a94442;
+        background-color: #f2dede;
+        border-color: #ebccd1;
+      }
+    </style>
+  </head>
+  <body>
+
+    <div class="container" style="margin-bottom: 20px;">
+
+      {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+          {% for category, message in messages %}
+            <div class="alert alert-{{ category }}">
+              {{ message }}
+            </div>
+          {% endfor %}
+        {% endif %}
+      {% endwith %}
+
+      <!--<div class="dropdown" style="margin-bottom: 10px;">
+        <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Document
+        <span class="caret"></span></button>
+        <ul class="dropdown-menu">
+        {% for file in files %}  
+          <li><a href="#">{{file}}</a></li>
+        {% endfor %}  
+        </ul>
+      </div>-->
+      <form action="/updatejson" method="POST"> 
+
+      <div class="form-group">
+        <label for="sel1">Select file:</label>
+        <select class="form-control" id="sel1" name="filename" onchange="check(this)">
+          {% for file in files %} 
+          <option value="{{file}}">{{file}}</option>
+          {% endfor %} 
+        </select>
+      </div>
+    
+      <table class="table">
+        <thead>
+        <tr>
+        <th>Document Name</th>
+        <th>Date</th>
+        <th>Metric</th>
+        <th>Value</th>
+        <th>Edited</th>
+        </tr>
+        </thead>
+        <tbody id="dynamic">
+       
+        {% for n in my_list %}
+        <tr>
+            <td>{{n.filename}}</td>
+            <td>{{n.date}}</td>
+            <td>{{n.metric}}</td>
+            <td>
+              <ul>
+              {% for m in n['value'] %}
+                <li>
+                {{m}}
+                </li>
+              {% endfor %}
+              </ul>
+            </td>
+            <td><input type="text" class="form-control edited_value" style="width: 150px;" id="{{n.metric}}" name="{{n.metric}}" id="edited_value"></td>
+        </tr>
+        {% endfor %}
+        
+      </tbody>
+      </table>
+      <div class="form-group">
+          <input type="submit" value="Review and Submit" class="btn btn-primary" style="width: 200px;">
+        </div>
+      </form>
+    </div>
+    
+
+    <script src="{{ url_for('static', filename='js/jquery-1.10.2.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+
+    <script>
+      /*$('#review_submit').click(function(){
+        $(".edited_value").each(function() {
+            if($(this).val() != "")
+            {
+              alert($(this).val());
+            }
+        });
+      });*/
+
+      function check($this){
+        filename = $this.value
+        var file = { "filename":filename}
+        $.ajax({
+          url: "/loaddata",
+          type: 'POST',
+          contentType: "application/json",
+          data: JSON.stringify(file),
+          success: function(data){
+            $('#dynamic').html(data);
+          }
+        });
+      }
+    </script>
+  </body>
+</html>

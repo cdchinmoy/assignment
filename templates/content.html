@@ -1,0 +1,17 @@
+{% for n in my_list %}
+<tr>
+    <td>{{n.filename}}</td>
+    <td>{{n.date}}</td>
+    <td>{{n.metric}}</td>
+    <td>
+        <ul>
+        {% for m in n['value'] %}
+        <li>
+        {{m}}
+        </li>
+        {% endfor %}
+        </ul>
+    </td>
+    <td><input type="text" class="form-control" style="width: 150px;" name="{{n.metric}}" id="{{n.metric}}"></td>
+</tr>
+{% endfor %}
